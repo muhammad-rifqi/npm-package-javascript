@@ -1,0 +1,23 @@
+{
+  "name": "reverse_number",
+  "version": "1.0.0",
+  "description": "Generate Reverse Number Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammad-rifqi/npm-package-javascript.git"
+  },
+  "keywords": [
+    "reverse",
+    "number"
+  ],
+  "author": "Rifqi Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhammad-rifqi/npm-package-javascript/issues"
+  },
+  "homepage": "https://github.com/muhammad-rifqi/npm-package-javascript#readme"
+}
