@@ -1,6 +1,6 @@
 {
-  "name": "reverse_number",
-  "version": "1.0.0",
+  "name": "reverse_number_update",
+  "version": "2.0.0",
   "description": "Generate Reverse Number Javascript",
   "main": "index.js",
   "scripts": {

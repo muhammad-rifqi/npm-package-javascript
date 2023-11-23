@@ -10,6 +10,4 @@ function reversedNum(num) {
     )                 
   }
   
-  console.log(reversedNum(num)) 
-
   module.exports = reversedNum;
